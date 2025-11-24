@@ -1,0 +1,3 @@
+nest generate module auth
+nest generate controller auth
+nest generate service auth
