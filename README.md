@@ -1,3 +1,3 @@
-nest generate module auth
-nest generate controller auth
-nest generate service auth
+nest generate module vuelos
+nest generate controller vuelos
+nest generate service vuelos
